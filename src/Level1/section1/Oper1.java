@@ -1,6 +1,7 @@
 package Level1.section1;
 
 //두 수의 덧셈
+//2つの数の足し算
 public class Oper1 {
     public int solution(int num1, int num2) {
         return num1 + num2;
