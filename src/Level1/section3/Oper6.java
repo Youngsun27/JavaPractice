@@ -1,6 +1,7 @@
 package Level1.section3;
 
 // 원의 넓이 구하기
+// 円の面積を求める
 public class Oper6 {
 public double solution(int r) {
         return r * r * 3.14;

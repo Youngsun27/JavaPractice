@@ -2,6 +2,11 @@ package Level1.section3;
 
 // 일의 자리 숫자 구하기
 // 문제 : 정수 num이 주어질 때, num의 일의 자리 숫자를 반환하는 solution 함수를 작성하시오.
+
+// 一の位の数字を求める
+// 問題：整数 num が与えられたとき、num の一の位の数字を返す solution 関数を作成しなさい。
+// 단어 : 数字を 求める (すうじを もとめる 숫자를 구하다)
+
 public class Oper9 {
     public int solution(int num) {
         return num % 10;

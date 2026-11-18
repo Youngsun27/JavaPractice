@@ -1,6 +1,7 @@
 package Level1.section3;
 
 // 사각형의 넓이 구하기
+// 四角形の面積を求める
 public class Oper7 {
     public double solution(int width, int height) {
         return width * height;
