@@ -1,6 +1,7 @@
 package Level1.section4;
 
 // 두 수 중 큰 수 찾기
+//2つの数のうち、大きい数を求める
 public class ThreeOper3 {
     public int solution(int a, int b) {
         return (a > b) ? a : b;

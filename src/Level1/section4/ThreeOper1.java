@@ -1,6 +1,7 @@
 package Level1.section4;
 
 // 짝수/홀수 판별
+// 偶数・奇数の判定
 public class ThreeOper1 {
     public String solution(int num) {
         return (num % 2 == 0) ? "짝수" : "홀수";

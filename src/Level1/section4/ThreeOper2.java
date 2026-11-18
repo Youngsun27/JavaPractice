@@ -1,6 +1,7 @@
 package Level1.section4;
 
 // 배수 판별
+// 倍数の判定
 public class ThreeOper2 {
     public int solution(int num, int n) {
         return (num % n == 0) ? 1 : 0;
