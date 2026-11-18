@@ -1,7 +1,7 @@
 package Level1.section2;
 
 //두 수의 나눗셈 (몫 구하기)
-//2つの数の割り算（商）
+//2つの数の 割り算(わりざん)（商 : しょう	몫）
 public class Oper5 {
     public double solution(int num1, int num2) {
         return (double) num1 / num2;

@@ -1,7 +1,7 @@
 package Level1.section1;
 
 //두 수의 곱셈
-//2つの数の掛け算
+//2つの数の 掛け算(かけざん 곱셈)
 public class Oper3 {
     public int solution(int num1, int num2) {
         return num1 + num2;

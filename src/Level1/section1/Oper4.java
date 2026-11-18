@@ -1,8 +1,8 @@
 package Level1.section1;
 
 //두 수의 나누기 (몫X)
-//2つの数の余り
-public class Oper3 {
+//2つの数の 余り(	あまり 나머지)
+public class Oper4 {
     public int solution(int num1, int num2) {
         return num1 + num2;
     }

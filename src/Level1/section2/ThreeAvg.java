@@ -1,6 +1,9 @@
 package Level1.section2;
 
 //세 수의 평균
+//3つの数の 平均
+//단어 : 数(かず 수), 平均(へいきん 평균)
+
 public class ThreeAvg {
     public double solution(int a, int b, int c) {
         return (a + b + c) / 3.0;
