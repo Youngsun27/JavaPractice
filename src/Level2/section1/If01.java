@@ -1,6 +1,7 @@
 package Level2.section1;
 
 // 양수인지 음수인지 판별하기
+// 正の数か負の数かを判定する
 public class If01 {
     public void solution(int num) {
         if (num > 0) {

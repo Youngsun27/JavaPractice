@@ -2,6 +2,9 @@ package Level1.section4;
 
 // 1 또는 0을 입력받아 반대로 출력
 // (boolean) a 형변환은 java에서 불가능
+
+// 1または0を入力し、反対の値を出力
+// Javaでは (boolean) a のような型変換はできない
 public class ThreeOper5 {
     public int solution(int a) {
         boolean value = (a == 1);

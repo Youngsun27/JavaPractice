@@ -1,6 +1,7 @@
 package Level1.section5;
 
 // "" + a : 정수 → 문자열
+// "" + a : 整数 → 文字列
 public class TypeCasting4 {
     public String solution(int a) {
         return "" + a;

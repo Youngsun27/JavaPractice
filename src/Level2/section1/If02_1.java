@@ -2,7 +2,7 @@ package Level2.section1;
 
 
 // 나이가 20세 이상인지 판별하기 (String과 return 사용버전)
-
+// 年齢が20歳以上かどうかを判定する（Stringとreturnを使うバージョン）
 public class If02_1 {
     public String solution(int age) {
         if (age >= 20) {

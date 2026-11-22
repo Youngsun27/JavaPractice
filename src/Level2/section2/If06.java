@@ -1,7 +1,7 @@
 package Level2.section2;
 
 // 10보다 큰 숫자만 출력
-
+// 10より大きい数字だけを出力する
 public class If06 {
     public void solution(int num) {
         if (num > 10) {

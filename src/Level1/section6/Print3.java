@@ -3,6 +3,10 @@ package Level1.section6;
 // 줄바꿈 출력하기2 : printf
 // 문제: printf를 한 번만 써서 이름 "철수"와 나이 20을 아래처럼 두 줄로 출력해 주세요.
 // 포인트: %s에는 문자열인 name이, %d에는 정수인 age가 순서대로 들어갑니다. printf도 자동으로 줄을 바꾸지 않아서 \n을 직접 넣었습니다.
+
+// 改行して出力する3 : printf
+//問題：printfを1回だけ使って、名前「チョルス」と年齢20を次のように2行で出力してください。
+//ポイント：%sには文字列のnameが、%dには整数のageが順番に入ります。printfも自動的に改行しないため、\nを直接入れます。
 public class Print3 {
     public static void main(String[] args) {
         String name = "철수";

@@ -1,7 +1,7 @@
 package Level2.section2;
 
 // 3의 배수만 출력
-
+// 3の倍数だけを出力する
 public class If05 {
     public void solution(int num) {
         if (num % 3 == 0) {

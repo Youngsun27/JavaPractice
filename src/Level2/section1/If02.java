@@ -1,6 +1,7 @@
 package Level2.section1;
 
 // 나이가 20세 이상인지 판별하기 (void와 println 사용버전)
+// 年齢が20歳以上かどうかを判定する（voidとprintlnを使うバージョン）
 public class If02 {
     public void solution(int age) {
         if (age >= 20) {

@@ -1,6 +1,7 @@
 package Level2.section2;
 
 // 숫자 비교하기
+// 数字を比較する
 public class If08_1 {
     public int solution(int num1, int num2) {
         if (num1 == num2) {

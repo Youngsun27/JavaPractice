@@ -3,6 +3,8 @@ package Level2.section2;
 // 비밀번호 반환하기
 // 문제 : 입력한 비밀번호 pw가 주어질 때, "1234"와 같으면 "로그인 성공", 다르면 "비밀번호 틀림"을 반환하는 solution 함수를 작성하시오.
 
+// パスワードを判定する
+// 問題：入力されたパスワードpwが与えられたとき、「1234」と同じなら「ログイン成功」、異なるなら「パスワードが違います」を返すsolution関数を作成してください。
 public class If09 {
     public String solution(String pw) {
         if (pw.equals("1234")) {

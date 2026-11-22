@@ -1,6 +1,7 @@
 package Level1.section5;
 
 // Integer.parseInt(a) : 문자열 → 정수
+// Integer.parseInt(a) : 文字列 → 整数
 public class TypeCasting1 {
     public int solution(String a) {
         return Integer.parseInt(a);

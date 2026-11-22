@@ -4,6 +4,10 @@ package Level1.section7;
 //문제: 두 정수를 입력받아 합을 출력해 주세요. (scanner)
 // 포인트: nextInt()는 공백이나 줄바꿈을 기준으로 정수를 하나씩 읽습니다. 정수가 아닌 값을 입력하면 InputMismatchException 오류가 납니다.
 
+// sc.nextInt()：整数を入力する
+//問題：2つの整数を入力して、その合計を出力してください。（Scanner）
+//ポイント：nextInt()は空白または改行を区切りとして、整数を1つずつ読み取ります。整数以外の値を入力すると、InputMismatchExceptionエラーが発生します。
+
 import java.util.Scanner;
 
 public class Scanner1 {

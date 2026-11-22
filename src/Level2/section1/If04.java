@@ -1,7 +1,7 @@
 package Level2.section1;
 
-// // 짝수와 홀수 구분
-
+// 짝수와 홀수 구분
+// 偶数と奇数を判定する
 public class If04 {
     public void solution(int num) {
         if (num % 2 == 0) {

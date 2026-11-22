@@ -3,6 +3,10 @@ package Level1.section9_EasyArray;
 // 문제: 크기 3인 int형 배열 arr를 만들어 10, 20, 30을 차례로 할당한 뒤,
 //      첫 번째 값과 마지막 값을 출력해 주세요.
 // 포인트: 마지막 칸의 인덱스는 arr.length - 1입니다.
+
+// 問題：サイズが3のint型配列arrを作成し、10、20、30を順番に代入した後、
+//       最初の値と最後の値を出力してください。
+// ポイント：最後の要素のインデックスはarr.length - 1です。
 public class Array3 {
     public static void main(String[] args) {
         int[] arr = new int[3];

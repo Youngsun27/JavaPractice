@@ -1,7 +1,8 @@
 package Level2.section1;
 
 
-//짝수만 출력
+// 짝수만 출력
+// 偶数だけを出力する
 
 public class If03 {
     public void solution(int num) {

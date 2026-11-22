@@ -1,6 +1,7 @@
 package Level2.section1;
 
 // 홀수만 출력
+// 奇数だけを出力する
 public class If03_1 {
     public void solution(int num) {
         if (num % 2 != 0) {

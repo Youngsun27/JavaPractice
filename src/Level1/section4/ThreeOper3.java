@@ -18,7 +18,7 @@ public class ThreeOper3 {
         int result = s.solution(a, b);
         System.out.println(result); // 8
     }
-}
+
 
 
 /*

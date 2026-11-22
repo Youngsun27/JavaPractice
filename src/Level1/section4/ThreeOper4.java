@@ -1,6 +1,7 @@
 package Level1.section4;
 
 // 두 수가 같으면 0, 다르면 1 출력
+// 2つの数が等しければ0、異なれば1を出力
 public class ThreeOper4 {
     public int solution(int a, int b) {
         return (a == b) ? 0 : 1;

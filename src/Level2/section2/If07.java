@@ -1,6 +1,7 @@
 package Level2.section2;
 
 // 절댓값 구하기
+// 絶対値を求める
 public class If07 {
     public int solution(int num) {
         if (num < 0) {

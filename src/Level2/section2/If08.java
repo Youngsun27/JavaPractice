@@ -1,7 +1,7 @@
 package Level2.section2;
 
 // 음수이면 0으로 바꾸고, 양수이면 그대로 반환하기
-
+// 負の数なら0に変換し、正の数ならそのまま返す
 public class If08 {
     public int solution(int num) {
         if (num < 0) {

@@ -1,6 +1,7 @@
 package Level1.section5;
 
 // String.valueOf(a) : 정수 → 문자열
+// String.valueOf(a) : 整数 → 文字列
 public class TypeCasting2 {
     public String solution(int a) {
         return String.valueOf(a);
